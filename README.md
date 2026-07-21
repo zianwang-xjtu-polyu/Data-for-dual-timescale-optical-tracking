@@ -4,7 +4,7 @@ This repository contains the raw experimental data associated with our manuscrip
 
 ## Data Description
 
-The uploaded files include the original measurement data used in the manuscript. 
+The uploaded files include the original experimental data used in the manuscript. 
 
 ## File Organization
 
